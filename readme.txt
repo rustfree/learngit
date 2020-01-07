@@ -1,5 +1,5 @@
 Git is a distributed version control system.
 Git is a free souftware distributed under the GPL.
 Git has a mutable index called stage.
-Git is a good tool.
+Git is a good tool for developer.
 Git track changes of files.
